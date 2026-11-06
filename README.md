@@ -110,9 +110,9 @@ Nov–Jun, pero no convierte una década en prueba de una ley de mercado.
 
 ## Equity y cash distribuido / impuestos
 
-![Curvas de patrimonio](output/01_portfolio_value_co19_33.png)
+![Curvas de patrimonio](01_portfolio_value_co19_33.png)
 
-![Impuestos y retiros retenidos](output/05_tax_withdrawals.png)
+![Impuestos y retiros retenidos](05_tax_withdrawals.png) 
 
 ## Ejecutar: offline + sin credenciales
 
